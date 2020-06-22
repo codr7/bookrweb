@@ -1,0 +1,2 @@
+go build -o dist/bookrweb.exe bookrweb.go
+cp ~/code/bookr/Debug/bookr.exe dist
